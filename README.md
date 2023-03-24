@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mislav</h1>
 <h3 align="center">A passionate frontend developer from Croatia</h3>
 
-- 🌱 I’m currently learning **node.js**
+- 🌎 I’m based in **Vrbovec, Croatia**
 
-- 👯 I’m looking to collaborate on **interesting projects.**
+- 🧠 I’m currently learning **express.js and TypeScript**
+
+- 👯 I’m looking to collaborate on **full stacks apps that help others.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
