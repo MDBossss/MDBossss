@@ -3,7 +3,7 @@
 
 - 🌎 I’m based in **Vrbovec, Croatia**
 
-- 🧠 I’m expanding knowledge on **node.js**
+- 🧠 I’m currently learning on **node.js**
 
 - 👯 I’m looking to collaborate on **full stacks apps that help others.**
 
