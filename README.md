@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mislav</h1>
 <h3 align="center">A passionate frontend developer from Croatia</h3>
 
-- 🌎 I’m based in **Vrbovec, Croatia**
+- 🌎 I’m based in **Zagreb, Croatia**
 
 - 🧠 I’m currently learning on **node.js**
 
