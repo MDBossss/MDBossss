@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mislav</h1>
-<h3 align="center">A passionate fullstack web developer from Croatia</h3>
+<h3 align="center">A passionate web developer from Croatia</h3>
 
 - 🌎 I’m based in **Zagreb, Croatia**
 
