@@ -3,8 +3,6 @@
 
 - 🌎 I’m based in **Zagreb, Croatia**
 
-- 🧠 I’m currently learning on **node.js**
-
 - 👯 I’m looking to collaborate on **full stacks apps that help others.**
 
 ---
