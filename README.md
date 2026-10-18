@@ -1,17 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:a855f7&height=200&section=header&text=Mislav%20Dobrini%C4%87&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20developer%20%C2%B7%20Zagreb&descSize=18&descAlignY=58" alt="Mislav Dobrinić" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:a855f7&height=200&section=header&text=Mislav%20Dobrini%C4%87&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20b2match%20%C2%B7%20Zagreb&descSize=18&descAlignY=58" alt="Mislav Dobrinić" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6366F1&center=true&vCenter=true&width=640&lines=TypeScript+%C2%B7+React+%C2%B7+Node.js;I+build+tools+for+my+own+house;Currently%3A+Obrub+%2B+Trasa;AI+playlists+with+Sentio" alt="TypeScript · React · Node.js">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6366F1&center=true&vCenter=true&width=640&lines=Software+Engineer+%40+b2match;TypeScript+%C2%B7+React+%C2%B7+Node.js;I+build+tools+for+my+own+house;Currently%3A+Obrub+%2B+Trasa" alt="TypeScript · React · Node.js">
 </p>
 
 <p align="center">
   <a href="https://mislavdobrinicdev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/mislav-dobrinic"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/mislavdobrinic"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mislavdobrinic@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-I build web apps end to end, from the database to the last pixel. Lately that means tools for a very real client: my own house, where every curb, conduit and junction box gets planned in code before it gets bought.
+I'm a Software Engineer at **[b2match](https://www.b2match.com)**, working across the whole product: interfaces, backend services, APIs and databases. Outside work I build tools for a very real client, my own house, where every curb, conduit and junction box gets planned in code before it gets bought.
 
 ## 🛠️ Stack
 
