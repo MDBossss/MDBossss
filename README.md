@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E2440,55:B8A1D9,100:E8B4D0&height=180&section=header&text=Mislav%20Dobrini%C4%87&fontSize=44&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Zagreb&descSize=16&descAlignY=60&descAlign=50" alt="Mislav Dobrinić" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="banners/header-dark.svg">
+    <img src="banners/header-light.svg" alt="Mislav Dobrinić · Software Engineer · Zagreb" width="100%">
+  </picture>
 </p>
 
 <p align="center">
@@ -65,8 +68,4 @@ I'm a Software Engineer at **[b2match](https://www.b2match.com)**, working acros
 
 <p align="center">
   Also: <a href="https://github.com/MDBossss/alisa"><b>Alisa</b></a>, a scraper that finds the cheapest car part across several web shops by part number.
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8B4D0,45:B8A1D9,100:2E2440&height=90&section=footer" alt="" width="100%">
 </p>
