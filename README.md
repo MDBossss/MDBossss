@@ -18,10 +18,6 @@
   <a href="mailto:mislavdobrinic@gmail.com"><img src="https://img.shields.io/badge/Email-30363D?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-Software engineer at **[b2match](https://www.b2match.com)**, working across the whole product, from the interface down to the database. I care more about how the pieces fit together than about which language they're written in.
-
-Off the clock I build tools for my most demanding client: my own house. Every curb, conduit and junction box gets planned in code before it gets bought.
-
 ### Stack
 
 <p align="center">
