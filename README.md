@@ -20,7 +20,10 @@ I'm a Software Engineer at **[b2match](https://www.b2match.com)**, working acros
 ### Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,prisma,mysql,postgres,go,kotlin,java,python,vite,tailwind,firebase,supabase,docker,git,figma&perline=9&theme=dark" alt="Tech stack">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="banners/stack-dark.svg">
+    <img src="banners/stack-light.svg" alt="Stack: TypeScript, Go, Ruby, React, Rails, Postgres and more. The stack is random, the architecture isn't." width="260">
+  </picture>
 </p>
 
 ### Projects
